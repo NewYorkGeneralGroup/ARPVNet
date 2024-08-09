@@ -1,4 +1,3 @@
-```python
 from setuptools import setup, find_packages
 
 setup(
@@ -10,4 +9,3 @@ setup(
         "numpy>=1.19.2",
     ],
 )
-```
